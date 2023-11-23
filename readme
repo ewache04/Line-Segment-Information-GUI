@@ -1,0 +1,36 @@
+
+# Line Segment Information GUI
+
+## Author
+Jeremiah E. Ochepo
+
+## Last Edited
+3/1/2020 (10PM)
+
+## Description
+This program creates a simple graphical user interface (GUI) to visualize and retrieve information about a line segment.
+
+## Features
+- Draws a fixed line on the GUI.
+- Allows the user to define a line segment by clicking two points.
+- Displays the slope and length of the drawn line segment.
+
+## Requirements
+- Python 3.x
+- [graphics library](https://pypi.org/project/graphics.py/)
+
+## Usage
+1. Run the program.
+2. Click two points on the GUI to define a line segment.
+3. The program will display the slope and length of the line segment.
+4. Close the GUI by clicking anywhere.
+
+## Notes
+- The program uses the `graphics` library, make sure it is installed (`pip install graphics.py`).
+
+## Troubleshooting
+- If you encounter any issues, feel free to contact the author.
+
+---
+
+Feel free to customize this README to provide more details or additional information about your program.
